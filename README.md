@@ -17,7 +17,7 @@ Enunciado:
   Diagrama:
 
   
-![Acesso diagrama UML](https://github.com/LucasYoshidaX86/CLASSE_ESTATICA/blob/main/DiagramaConversorUnidades.png)
+![Acesso diagrama UML]([https://github.com/LucasYoshidaX86/CLASSE_ESTATICA/blob/main/DiagramaConversorUnidades.png](https://github.com/LucasYoshidaX86/INTERFACE/blob/master/DiagramaUMLInterface.drawio.png))
 
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
 
