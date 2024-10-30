@@ -23,10 +23,10 @@ Enunciado:
 
 📋 Pré-requisitos JDK 17 Eclipse IDE (versão 2024-03) Para instalar o JDK, acesse o site oficial da Oracle e siga as instruções. O Eclipse pode ser baixado no site da Eclipse Foundation.
 
-🔧 Instalação Clone o repositório: bash Copiar código git clone https://github.com/LucasYoshidaX86/CLASSE_ESTATICA.git Abra o Eclipse e importe o projeto como um projeto Maven. Execute a classe principal para iniciar o aplicativo.
+🔧 Instalação Clone o repositório: bash Copiar código git clone https://github.com/LucasYoshidaX86/INTERFACE.git Abra o Eclipse e importe o projeto como um projeto Maven. Execute a classe principal para iniciar o aplicativo.
 
 🛠️ Construído com Java; IDE Eclipse; GIT; Git Hub.
 
-📌 Versão Versão 1.0 - Lançamento inicial do projeto 25/10/2024.
+📌 Versão Versão 1.0 - Lançamento inicial do projeto 30/10/2024.
 
 ✒️ Autores Lucas Taichi Okano Yoshida - Trabalho inicial - Desenvolvimento do sistema.
